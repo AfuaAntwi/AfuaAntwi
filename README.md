@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AfuaAntwi
-- 👀 I’m interested in Software Engineering and Data Science.
+- 👀 I’m interested in Web and Mobile Development, Data Science.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on projects that will help me polish my skills.
 - 📫 How to reach me ...
